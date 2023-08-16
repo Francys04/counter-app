@@ -11,7 +11,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ### Introduction
 
