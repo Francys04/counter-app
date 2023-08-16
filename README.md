@@ -39,8 +39,9 @@ The Counter App showcases the basic functionalities of HTML, CSS, and JavaScript
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/Francys04/counter-app
+   ```
+   git clone https://github.com/Francys04/counter-app 
+   ```
 
 2. Navigate to the project directory:
 
